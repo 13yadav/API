@@ -1,5 +1,4 @@
-{
-    "Videos":[
+[
         {
             "video_url":"https://github.com/13yadav/API/raw/main/VideoDummyApi/data/arcoiblue___CI8NFTIHz5C___.mp4"
         },
@@ -144,5 +143,4 @@
         {
             "video_url":"https://github.com/13yadav/API/raw/main/VideoDummyApi/data/zaan.6___CJBenwPj-vB___.mp4"
         }
-    ]
-}
+]
